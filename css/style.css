@@ -1,0 +1,28 @@
+body {
+    margin: auto;
+    background-color: #245173;
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.5vw;
+    color: white;
+}
+
+a {
+    color: white;
+}
+
+nav a {
+    padding-right: 10px;
+}
+
+#logo {
+    margin-top: 60px;
+    width: 25%;
+    height: 25%;
+    text-align: center;
+}
+
+#container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
